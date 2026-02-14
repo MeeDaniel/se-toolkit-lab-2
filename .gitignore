@@ -8,3 +8,5 @@ __pycache__/
 .pytest_cache
 
 .vscode/
+.ssh/.ssh
+.ssh/.ssh.pub
